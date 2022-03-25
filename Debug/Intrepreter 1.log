@@ -1,8 +1,0 @@
-﻿  Intrepreter 1.cpp
-c:\users\familyp\documents\levi\athens state\cs 414\intrepreter 1\intrepreter 1\intrepreter 1.cpp(167): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\familyp\documents\levi\athens state\cs 414\intrepreter 1\intrepreter 1\intrepreter 1.cpp(169): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\familyp\documents\levi\athens state\cs 414\intrepreter 1\intrepreter 1\intrepreter 1.cpp(171): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\familyp\documents\levi\athens state\cs 414\intrepreter 1\intrepreter 1\intrepreter 1.cpp(173): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\familyp\documents\levi\athens state\cs 414\intrepreter 1\intrepreter 1\intrepreter 1.cpp(235): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\familyp\documents\levi\athens state\cs 414\intrepreter 1\intrepreter 1\intrepreter 1.cpp(68): warning C4101: 'num': unreferenced local variable
-  Intrepreter 1.vcxproj -> C:\Users\FamilyP\Documents\Levi\Athens State\CS 414\Intrepreter 1\Debug\Intrepreter 1.exe
